@@ -2,7 +2,7 @@ Terraform Windows EC2 Instance
 Overview
 This Terraform script automates the provisioning of a Windows EC2 instance on AWS. This README provides step-by-step instructions on how to use this script.
 
-Prerequisites
+Prerequisites:
 Before you begin, make sure you have the following prerequisites in place:
 
 AWS Account: You need an active AWS account with the necessary permissions to create EC2 instances.
